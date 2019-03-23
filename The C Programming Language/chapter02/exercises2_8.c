@@ -1,4 +1,4 @@
-// 习题2-8:编写一个函数rightrot(x,n),该函数返回将x循环右移n位后所得的返回值。
+// 习题2-8：编写一个函数rightrot(x,n),该函数返回将x循环右移n位后所得的返回值。
 
 #include <stdio.h>
 int wordlength()

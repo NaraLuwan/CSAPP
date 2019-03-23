@@ -1,4 +1,4 @@
-// 习题2-4:重写函数squeeze(s1,s2),将字符串s1中任何与字符串s2中字符匹配的字符都删除
+// 习题2-4：重写函数squeeze(s1,s2),将字符串s1中任何与字符串s2中字符匹配的字符都删除
 
 void squeeze(char s1[],char s2[]){
     int i,j,k;
