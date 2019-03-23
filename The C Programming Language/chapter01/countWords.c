@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+void main(){
     int c,nl,nw,nc,flag;
     flag=0;
     nl=nw=nc=0;
@@ -16,5 +16,4 @@ int main(){
         }
     }
     printf("%3d %3d %3d\n",nl,nw,nc);
-    return 0;
 }
